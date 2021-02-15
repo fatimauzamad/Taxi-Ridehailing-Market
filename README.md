@@ -26,7 +26,7 @@ BCG matrix was used to back recommendations with data. According to the insights
 
 ![](viz/demographics.png)
 
-Looking Forward
-With the rapid growth of ridesharing and carsharing the way people travel from point A to B is becoming increasingly personalized. However, as uncertainty abounds the speed of transition has seen a shift. The share of people wanting to buy personally owned, driver driven vehicles is on a decline. The future is now looking ahead to multimodal travel, driverless vehicles and shared mobility models. As need for personalization increases, companies in the industries ranging from insurance and media, to healthcare and energy are looking towards ways of creating value in this emerging environment. There are four elements which need to be focused on. These elements describe the choices and trade-offs with which players in the market look to capture value in.
+## Looking Forward
+With the rapid growth of ridesharing and carsharing; the way people travel from point A to B is becoming increasingly personalized. However, as uncertainty abounds the speed of transition has seen a shift. The share of people wanting to buy personally owned, driver driven vehicles is on a decline. The future is now looking ahead to multimodal travel, driverless vehicles and shared mobility models. As need for personalization increases, companies in the industries ranging from insurance and media, to healthcare and energy are looking towards ways of creating value in this emerging environment. There are four elements which need to be focused on. These elements describe the choices and trade-offs with which players in the market look to capture value in.
 
 ![](viz/mybanner.png)
