@@ -1,4 +1,4 @@
-# Taxi & Ride-hailing Market
+# Industry Outlook: Taxi & Ride-hailing Market
 Services that use smartphone to connect community drivers with passengers are variously referred to as transport network companies (TNCs) or ride-hailing services. Ride-hailing services provide convenient door-to-door (A to B) transport by connecting passengers with regular drivers driving their personal vehicle / taxi drivers driving a licensed taxi registered with a particular ride-hailing mobile app provider.
 ## Indsutry Insights - 8 metropolises in action
 The global ride-hailing market is expected to reach at a valuation of US$ 365.9 billion through a compound annual growth rate (CAGR) of 17.5% by 2024 and hence is an interesting and promising market to look into.
